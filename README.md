@@ -1,9 +1,9 @@
-# Canada Number Validator
+# Canada Phone Number Validator
 
 # 加拿大电话号码验证器
 
-![Canada Number Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-number-validator.png)
-![Canada carrier Validator](https://raw.githubusercontent.com/pythoncode26/canada-carrier-validator/refs/heads/main/canada-carrier-validator.png)
+![Canada Number Validator](https://raw.githubusercontent.com/pythonsoftware26/canada-phone-number-validator/refs/heads/main/canada-phone-number-validator.png)
+![Canada carrier Validator](https://raw.githubusercontent.com/pythonsoftware26/canada-phone-number-validator/refs/heads/main/canada-phone-number-carrier-checker.png)
 
 ## Key Features:
 - Fast and efficient number validation.
